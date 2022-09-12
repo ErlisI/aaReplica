@@ -1,6 +1,6 @@
 # aa-Replica
 
-Using Unity Engine to create a replica of the famous phone game "aa".
+Using Unity Engine to create a replica of the famous game "aa".
 
 ## Rules of the game:
   - Try to get as many pins to the circle as possible
